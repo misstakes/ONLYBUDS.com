@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Onlybuds</title>
-  <link rel="stylesheet" href="entry.css">
-</head>
-<body>
-  <div class="entry-box">
-    <h2>Secure Access</h2>
-    <input type="password" id="accessCode" placeholder="Enter Secret Code">
-    <button onclick="checkCode()">Enter</button>
-    <p id="error">Invalid code.</p>
-  </div>
-  <script src="script.js"></script>
-</body>
-</html>
+https://misstakes.github.io/ONLYBUDS.com/
